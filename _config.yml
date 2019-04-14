@@ -1,9 +1,8 @@
 author: Rachel Wong
 email: wongrawr@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Cognitive Psychology graduate student at Florida Atlantic University.
+description: Cognitive Psychology graduate student at Florida Atlantic University.
 # social links
-github_username:  rachelw0ng
+github_username: rachelw0ng
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
