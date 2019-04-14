@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Welcome to my blog"
+title: "Testing"
 date: 2019-04-13
+
 ---
 
 # Welcome
